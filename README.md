@@ -1,7 +1,5 @@
-## Hi 👋
-# <div align="center">I'm Jeremiah</div>
-
-## <div align="center">A Front end Software Engineer</div>
+# <div align="center">Hi 👋, I'm Jeremiah</div>
+## <div align="center">A Front End Software Engineer</div>
 
 Here are some ideas to get you started:
 
