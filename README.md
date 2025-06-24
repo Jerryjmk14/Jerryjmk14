@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jeremiah!
+# <div align="center">👋 Hello, I'm Jeremiah!</div>
 
 🎓 **Certificate in Web and Computer Programming**  
 _Proud graduate of BYU Pathway Worldwide_  
