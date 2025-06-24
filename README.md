@@ -1,5 +1,5 @@
 # <div align="center">👋 Hello, I'm Jeremiah!</div>
-![Tech-Inspired Banner](https://[your-image-link-here](https://github.com/Jerryjmk14/wdd231/blob/9a8de86ec831f5ee053157415b9c43fc7a6b6ac7/images/profile.jpg))
+![Tech-Inspired Banner](https://github.com/Jerryjmk14/wdd231/blob/9a8de86ec831f5ee053157415b9c43fc7a6b6ac7/images/profile.jpg)
 
 ### **<div align="center">🎓 Certificate in Web and Computer Programming</div>** 
 _<div align="center">Proud graduate of BYU Pathway Worldwide</div>_  
