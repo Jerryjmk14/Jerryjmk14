@@ -1,11 +1,11 @@
 # <div align="center">👋 Hello, I'm Jeremiah!</div>
 
-<div align="center">🎓 **Certificate in Web and Computer Programming** </div>  
-<div align="center">_Proud graduate of BYU Pathway Worldwide_ </div>  
+**<div align="center">🎓 Certificate in Web and Computer Programming</div>** 
+_<div align="center">Proud graduate of BYU Pathway Worldwide</div>_  
 <div align="center">I’ve built a strong foundation in front-end technologies, problem-solving, and building blocks of programming languages through BYU’s globally recognized online program. </div>
 
-<div align="center">💻 **Currently Pursuing: Software Development**  </div> 
-<div align="center">Actively expanding my skills in software architecture, databases etc. I’m on a mission to turn innovative ideas into functional, elegant code. </div>
+💻 **Currently Pursuing: Software Development**
+Actively expanding my skills in software architecture, databases etc. I’m on a mission to turn innovative ideas into functional, elegant code.
 
 ## 🚀 What I’m Working On
 - Building full-stack web applications with modern frameworks (React, Node.js, etc.)
