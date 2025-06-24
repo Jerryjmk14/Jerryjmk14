@@ -1,6 +1,6 @@
 # <div align="center">👋 Hello, I'm Jeremiah!</div>
 
-**<div align="center">### 🎓 Certificate in Web and Computer Programming</div>** 
+### **<div align="center">🎓 Certificate in Web and Computer Programming</div>** 
 _<div align="center">Proud graduate of BYU Pathway Worldwide</div>_  
 
 <div align="center">I’ve built a strong foundation in front-end technologies, problem-solving, and building blocks of programming languages through BYU’s globally recognized online program. </div> <br>
