@@ -1,4 +1,5 @@
 # <div align="center">👋 Hello, I'm Jeremiah!</div>
+![Tech-Inspired Banner](https://your-image-link-here)
 
 ### **<div align="center">🎓 Certificate in Web and Computer Programming</div>** 
 _<div align="center">Proud graduate of BYU Pathway Worldwide</div>_  
@@ -34,11 +35,11 @@ Actively expanding my skills in software architecture, databases etc. I’m on a
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryjmk14&theme=dark&show_icons=true)](https://github.com/jerryjmk14)
 <br>
+<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryjmk14&theme=dark)](https://github.com/jerryjmk14)
 
 ## 📫 Let’s Connect
-You can always reach me or follow my work here on GitHub.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jeremiah-egwa)
+You can always reach me or follow my work here on GitHub and [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/jeremiah-egwa)
 
 ---
 
