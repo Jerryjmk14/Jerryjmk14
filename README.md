@@ -5,6 +5,7 @@ _<div align="center">Proud graduate of BYU Pathway Worldwide</div>_
 <div align="center">I’ve built a strong foundation in front-end technologies, problem-solving, and building blocks of programming languages through BYU’s globally recognized online program. </div>
 
 💻 **Currently Pursuing: Software Development**
+
 Actively expanding my skills in software architecture, databases etc. I’m on a mission to turn innovative ideas into functional, elegant code.
 
 ## 🚀 What I’m Working On
