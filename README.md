@@ -1,11 +1,11 @@
 # <div align="center">👋 Hello, I'm Jeremiah!</div>
 
-🎓 **Certificate in Web and Computer Programming**  
-_Proud graduate of BYU Pathway Worldwide_  
-I’ve built a strong foundation in front-end technologies, problem-solving, and building blocks of programming languages through BYU’s globally recognized online program.
+<div align="center">🎓 **Certificate in Web and Computer Programming** </div>  
+<div align="center">_Proud graduate of BYU Pathway Worldwide_ </div>  
+<div align="center">I’ve built a strong foundation in front-end technologies, problem-solving, and building blocks of programming languages through BYU’s globally recognized online program. </div>
 
-💻 **Currently Pursuing: Software Development**  
-Actively expanding my skills in software architecture, databases etc. I’m on a mission to turn innovative ideas into functional, elegant code.
+<div align="center">💻 **Currently Pursuing: Software Development**  </div> 
+<div align="center">Actively expanding my skills in software architecture, databases etc. I’m on a mission to turn innovative ideas into functional, elegant code. </div>
 
 ## 🚀 What I’m Working On
 - Building full-stack web applications with modern frameworks (React, Node.js, etc.)
@@ -21,7 +21,6 @@ You can always reach me or follow my work here on GitHub.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
+> “Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.” – Patrick McKenzie, Software Engineer
 
 
